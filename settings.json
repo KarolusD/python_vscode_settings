@@ -9,7 +9,4 @@
   "[python]": {
     "editor.tabSize": 4
   },
-  "editor.codeActionsOnSave": {
-    "source.organizeImports": true
-  }
 }
